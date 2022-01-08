@@ -1,4 +1,4 @@
-**I'm interested in Games, Mods and 3D Models**
+**I'm interested in Games**
    
    **Just that**
 
