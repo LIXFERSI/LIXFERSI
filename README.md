@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LIXFERSI
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning C#/Blender
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++
 
 <!---
 LIXFERSI/LIXFERSI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
